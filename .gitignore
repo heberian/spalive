@@ -4,9 +4,3 @@
 Homestead.yaml
 Homestead.json
 .env
-server.php
-index.php
-.htaccess
-/public/.htaccess
-/public/index.php
-/bootstrap/cache
